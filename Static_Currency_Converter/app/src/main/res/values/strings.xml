@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Static Currency Converter</string>
+    <string-array name="currencies">
+        <item>USD</item>
+        <item>INR</item>
+    </string-array>
+</resources>
